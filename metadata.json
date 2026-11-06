@@ -1,0 +1,8 @@
+{
+  "name": "Remix EtalaseKu - Etalase Link Digital Profesional",
+  "description": "Platform etalase link digital profesional untuk klien, kreator, dan bisnis dengan thumbnail foto, manajemen link, dan analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
